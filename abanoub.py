@@ -1,2 +1,2 @@
 print "Hello World! :P"
-print "Stop Omar"
+print "Stop APP .."
